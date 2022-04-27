@@ -1,4 +1,4 @@
-# Ex.No:2 Implicit Intents
+# Ex.No:2a Implicit Intents
 
 Develop program to create a text field and a button “Navigate”. When you enter “www.google.com” and press navigate button it should open google page using Implicit Intents and to create two screens , first screen will take one number input from user. 
 
