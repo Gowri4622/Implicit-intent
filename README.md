@@ -1,7 +1,6 @@
-# Ex.No:2a Implicit Intents
-
-Develop program to create a text field and a button “Navigate”. When you enter “www.google.com” and press navigate button it should open google page using Implicit Intents and to create two screens , first screen will take one number input from user. 
-
+### EX NO : 02a
+### DATE  : 
+# <p align="center"> Implicit Intents </p>
 
 ## AIM:
 
@@ -35,7 +34,6 @@ Developed by: Gowri M
 Registeration Number : 212220230019
 */
 ```
-### Implicit
 #### MainActivity.java
 ```java
 package com.example.firstapp;
@@ -111,8 +109,11 @@ com/apk/res/android"
 ```
 
 ## OUTPUT
-
 ![WhatsApp Image 2022-04-27 at 3 48 49 PM (1)](https://user-images.githubusercontent.com/75235455/165498895-ead7bc45-9471-489d-860a-b6cb642bc0ad.jpeg)
+
+</br>
+
+
 ![WhatsApp Image 2022-04-27 at 3 48 49 PM](https://user-images.githubusercontent.com/75235455/165498906-031429ab-3aa6-4ba0-9739-c8f01ed21fe9.jpeg)
 
 
